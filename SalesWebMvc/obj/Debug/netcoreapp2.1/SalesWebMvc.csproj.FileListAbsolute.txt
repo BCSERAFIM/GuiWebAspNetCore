@@ -30,3 +30,4 @@ D:\Bruno Serafim\Curso Udemy CSharp Completo 2024\ProjetosCSharp\SalesWebMvc\Sal
 D:\Bruno Serafim\Curso Udemy CSharp Completo 2024\ProjetosCSharp\SalesWebMvc\SalesWebMvc\obj\Debug\netcoreapp2.1\SalesWebMvc.dll
 D:\Bruno Serafim\Curso Udemy CSharp Completo 2024\ProjetosCSharp\SalesWebMvc\SalesWebMvc\obj\Debug\netcoreapp2.1\SalesWebMvc.pdb
 D:\Bruno Serafim\Curso Udemy CSharp Completo 2024\ProjetosCSharp\SalesWebMvc\SalesWebMvc\obj\Debug\netcoreapp2.1\SalesWebMvc.csproj.CopyComplete
+D:\Bruno Serafim\Curso Udemy CSharp Completo 2024\ProjetosCSharp\SalesWebMvc\SalesWebMvc\obj\Debug\netcoreapp2.1\Razor\Views\Departments\Index.g.cshtml.cs
