@@ -35,3 +35,4 @@ D:\Bruno Serafim\Curso Udemy CSharp Completo 2024\ProjetosCSharp\SalesWebMvc\Sal
 D:\Bruno Serafim\Curso Udemy CSharp Completo 2024\ProjetosCSharp\SalesWebMvc\SalesWebMvc\obj\Debug\netcoreapp2.1\Razor\Views\Departments\Details.g.cshtml.cs
 D:\Bruno Serafim\Curso Udemy CSharp Completo 2024\ProjetosCSharp\SalesWebMvc\SalesWebMvc\obj\Debug\netcoreapp2.1\Razor\Views\Departments\Edit.g.cshtml.cs
 D:\Bruno Serafim\Curso Udemy CSharp Completo 2024\ProjetosCSharp\SalesWebMvc\SalesWebMvc\obj\Debug\netcoreapp2.1\Razor\Views\Departments\Index.g.cshtml.cs
+D:\Bruno Serafim\Curso Udemy CSharp Completo 2024\ProjetosCSharp\SalesWebMvc\SalesWebMvc\obj\Debug\netcoreapp2.1\Razor\Views\Sellers\Index.g.cshtml.cs
