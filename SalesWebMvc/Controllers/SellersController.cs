@@ -1,10 +1,10 @@
 ﻿using Microsoft.AspNetCore.Mvc;
 using SalesWebMvc.Models;
 using SalesWebMvc.Services;
+using SalesWebMvc.Models.ViewModels;
 using System;
 using System.Collections.Generic;
 using System.Linq;
-using System.Threading.Tasks;
 
 namespace SalesWebMvc.Controllers
 {
@@ -12,20 +12,29 @@ namespace SalesWebMvc.Controllers
     {
 
         private readonly SellerService _sellerService;
+        private readonly DepartmentService _departmentService;
 
-        public SellersController(SellerService sellerService)
+        public SellersController(SellerService sellerService, DepartmentService departmentService)
         {
             _sellerService = sellerService;
+            _departmentService = departmentService;
         }
+
+        // o construtor vem com o metodo Get padrão não sendo necessario incluir
         public IActionResult Index()
         {
             var list = _sellerService.FindAll();
             return View(list);
         }
 
+
         public IActionResult Create()
         {
-            return View();
+            // buscar do banco de dados todos os departamentos
+            var departments = _departmentService.FindaAll();
+            // instanciar objeto do view model
+            var viewModel = new SellerFormViewMode { Departments = departments };
+            return View(viewModel);
         }
 
         // Annotation of POST 
