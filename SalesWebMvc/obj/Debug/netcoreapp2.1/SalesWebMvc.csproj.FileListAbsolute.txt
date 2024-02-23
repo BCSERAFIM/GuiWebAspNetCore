@@ -40,3 +40,6 @@ D:\Bruno Serafim\Curso Udemy CSharp Completo 2024\ProjetosCSharp\SalesWebMvc\Sal
 D:\Bruno Serafim\Curso Udemy CSharp Completo 2024\ProjetosCSharp\SalesWebMvc\SalesWebMvc\obj\Debug\netcoreapp2.1\Razor\Views\Sellers\Delete.g.cshtml.cs
 D:\Bruno Serafim\Curso Udemy CSharp Completo 2024\ProjetosCSharp\SalesWebMvc\SalesWebMvc\obj\Debug\netcoreapp2.1\Razor\Views\Sellers\Details.g.cshtml.cs
 D:\Bruno Serafim\Curso Udemy CSharp Completo 2024\ProjetosCSharp\SalesWebMvc\SalesWebMvc\obj\Debug\netcoreapp2.1\Razor\Views\Sellers\Edit.g.cshtml.cs
+D:\Bruno Serafim\Curso Udemy CSharp Completo 2024\ProjetosCSharp\SalesWebMvc\SalesWebMvc\obj\Debug\netcoreapp2.1\Razor\Views\SalesRecords\Index.g.cshtml.cs
+D:\Bruno Serafim\Curso Udemy CSharp Completo 2024\ProjetosCSharp\SalesWebMvc\SalesWebMvc\obj\Debug\netcoreapp2.1\Razor\Views\SalesRecords\SimpleSearch.g.cshtml.cs
+D:\Bruno Serafim\Curso Udemy CSharp Completo 2024\ProjetosCSharp\SalesWebMvc\SalesWebMvc\obj\Debug\netcoreapp2.1\Razor\Views\SalesRecords\GroupingSearch.g.cshtml.cs
